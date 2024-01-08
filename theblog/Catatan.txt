@@ -1,0 +1,34 @@
+// Create Requirement di cretae post
+// Create real post 
+// image hanya dari unsplash pakai dari IMGUR (direct link)
+// 25 Post Image dan Title Beda in
+// diatas button delete article tambahin input password
+
+Note Meet Minggu
+Drizzle itu cuman kayak komunikator antara aplikasi dengan Databasenya
+Neon = Tempat untuk Databasenya
+NPM run Dev = digunakan ketika Development
+NPM Start = digunakan ketika udah di publish
+Konekin API Ke Front-End
+"use client"; (nanti cari tau)
+ctrl space (auto Import)
+posts.map((post) = ngemapping 25 posts (array))
+
+
+Quest
+- Buat Deskripsinya pangkasin (deadline besok malem)
+- Tambahin button Addpost di home
+- Button Back di detail kembali ke home
+- Button Back di CreatePost kembali ke home
+- 2023-12-24T10:26:03.775Z convert supaya hanya tanggal bulan tahun
+
+
+1. Bikin NextApp
+2. Bikin FrontEnd,Halaman lainnya(Routingan)
+3. Dapatin Data dari Database (karena kerjain sendiri (bikin backend dulu:API post route))
+4. Siapin databasenya (neon)
+5. Konek kedatabase pakai (Drizzle)
+6. Koding Backend CRUD
+7. Nampilin data dari Database
+
+Cari dulu baru nanya :v
